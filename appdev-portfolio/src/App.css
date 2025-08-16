@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #fdf6f0;
+  color: #3e2723;
+  line-height: 1.6;
+}
+
+.hero {
+  background: url("https://images.unsplash.com/photo-1509042239860-f550ce710b93") 
+              no-repeat center center/cover;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.body-content, .faq {
+  padding: 60px 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.body-content h2, .faq h2 {
+  color: #6d4c41;
+  margin-bottom: 20px;
+}
+
+.faq div {
+  margin-bottom: 25px;
+}
+
+footer {
+  background: #3e2723;
+  color: #fdf6f0;
+  text-align: center;
+  padding: 20px;
+}
