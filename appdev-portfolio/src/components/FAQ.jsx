@@ -16,7 +16,7 @@ function FAQ() {
 
         <div>
             <h3>Where are you located?</h3>
-            <p>We're at the heart of the city, just a short walk from the plaza.</p>
+            <p>We're at the heart of the Valencia, just a short walk from the plaza.</p>
         </div>
 
     </section>

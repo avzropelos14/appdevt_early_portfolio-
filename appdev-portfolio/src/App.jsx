@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import HeroBanner from './components/HeroBanner'
 import BodyCon from './components/BodyCon'
 import FAQ from './components/FAQ'
@@ -13,6 +11,7 @@ function App() {
   <div>
     <HeroBanner />
     <BodyCon />
+    <div className="separator"></div>
     <FAQ />
     <Footer />
   </div> 

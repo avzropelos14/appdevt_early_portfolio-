@@ -1,7 +1,7 @@
 function BodyCon() {
   return (
     <>
-    <section className="body-content">
+    <section className="section body-content">
         <h2>About Our Café</h2>
         <p>
             At Tambay Café, we serve freshly brewed coffee and homemade pastries. 
